@@ -5,6 +5,8 @@ The Official Website of the City of New York provides open data which shows the 
 
 Project Source can viewed from https://www.kaggle.com/new-york-city/new-york-city-current-job-postings
 
+![alt_text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLs_-PJUEUuXu5ZxGnbwTNx7M5sXqkienBcHM9sayXH5Na4oXL&s)
+
 -------------
 Author 
 ---
